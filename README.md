@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [https://twitter.com/ryangjchandler](Ryan), a full-stack developer from the United Kingdom who mostly works with Laravel and JavaScript, although I also dabble in a little bit of Go too.
+I'm [Ryan](https://twitter.com/ryangjchandler), a full-stack developer from the United Kingdom who mostly works with Laravel and JavaScript, although I also dabble in a little bit of Go too.
 
 I spend most of my free-time contributing to open-source projects, as well as maintaining them:
 
