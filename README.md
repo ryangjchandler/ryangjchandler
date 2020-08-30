@@ -9,5 +9,5 @@ I spend most of my free-time contributing to open-source projects, as well as ma
 
 I also write quite a few articles on my [personal blog](https://ryangjchandler.co.uk).
 
-As well as my open-source adventures, I work as a Laravel developer for [Surewise](https://surewise.com) and do some extra work on the side under the name [Digital Bit](https://digitalbit.dev).
+As well as my open-source adventures, I work as a Laravel developer for [Surewise](https://surewise.com) and freelance on the side.
 
