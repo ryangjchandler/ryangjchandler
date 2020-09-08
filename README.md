@@ -6,6 +6,7 @@ I spend most of my free-time contributing to open-source projects, as well as ma
 
 * [Alpine.js](https://github.com/alpinejs)
 * [Spruce](https://github.com/ryangjchandler/spruce)
+* [TALL Preset](https://github.com/laravel-frontend-presets/tall)
 
 I also write quite a few articles on my [personal blog](https://ryangjchandler.co.uk).
 
