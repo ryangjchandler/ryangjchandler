@@ -12,3 +12,6 @@ I also write quite a few articles on my [personal blog](https://ryangjchandler.c
 
 As well as my open-source adventures, I work as a Laravel developer for [Surewise](https://surewise.com) and freelance on the side.
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ryangjchandler&show_icons=true)
+
+
