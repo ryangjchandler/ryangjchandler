@@ -1,17 +1,9 @@
-### Hi there 👋
+👋 Hi! My name is Ryan and I am a full-stack Laravel and Go developer.
 
-I'm [Ryan](https://twitter.com/ryangjchandler), a full-stack developer from the United Kingdom who mostly works with Laravel and JavaScript, although I also dabble in a little bit of Go too.
+✨ I've contributed to many open-source projects and packages, including [Alpine.js](https://github.com/alpinejs/alpine) and [Laravel](https://github.com/laravel/framework), as well as released some of my own, most notably [Spruce](https://github.com/ryangjchandler/spruce).
 
-I spend most of my free-time contributing to open-source projects, as well as maintaining them:
+📦 I also develop and maintain one of the more popular front-end presets for Laravel, the [TALL stack preset](https://github.com/laravel-frontend-presets/tall), alongside [Dan Harrin](https://github.com/sponsors/danharrin) and [Liam Hammett](https://github.com/sponsors/imliam). This package has been downloaded and used more than 20,000 times by developers in the Laravel community.
 
-* [Alpine.js](https://github.com/alpinejs)
-* [Spruce](https://github.com/ryangjchandler/spruce)
-* [TALL Preset](https://github.com/laravel-frontend-presets/tall)
+🎙 Just like most developers in 2020, we started a podcast too called [Undefined Variable](https://undefined-variable.transistor.fm/). We talk about some new technologies in the community and things that generally interest, or annoy, us.
 
-I also write quite a few articles on my [personal blog](https://ryangjchandler.co.uk).
-
-As well as my open-source adventures, I work as a Laravel developer for [Surewise](https://surewise.com) and freelance on the side.
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ryangjchandler&show_icons=true)
-
-
+📰 I also write blog posts over on my [personal site](https://ryangjchandler.co.uk). I cover topics and concepts in the Laravel framework, as well as more generalised JavaScript and Alpine.js tips and tricks. I'm best known for my series of posts on [unconventional things you can do with Laravel](https://ryangjchandler.co.uk/articles/unconventional-laravel-auto-validating-models). On average, my blog receives more than 10,000 views per month.
