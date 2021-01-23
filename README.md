@@ -1,4 +1,4 @@
-👋 Hi! My name is Ryan and I am a full-stack Laravel and Go developer.
+👋 Hi! My name is Ryan and I'm a full-stack web developer. I primarily work with Laravel and JavaScript, but occasionally dabble in Go and Rust development.
 
 ✨ I've contributed to many open-source projects and packages, including [Alpine.js](https://github.com/alpinejs/alpine) and [Laravel](https://github.com/laravel/framework), as well as released some of my own, most notably [Spruce](https://github.com/ryangjchandler/spruce).
 
