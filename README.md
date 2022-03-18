@@ -11,6 +11,7 @@ I spend a good amount of time each day working on open-source projects for a var
 * [TALL Preset](https://github.com/laravel-frontend-presets/tall)
 * [Alpine.js Clipboard](https://github.com/ryangjchandler/alpine-clipboard)
 * [Alpine.js Tooltip](https://github.com/ryangjchandler/alpine-tooltip)
+* [Prettier Plugin for Blade](https://github.com/ryangjchandler/prettier-plugin-blade)
 
 ### Writing
 
