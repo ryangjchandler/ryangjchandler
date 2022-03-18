@@ -1,7 +1,21 @@
-👋 Hi! My name is Ryan and I'm a full-stack web developer. I primarily work with Laravel and JavaScript, but occasionally dabble in Go and Rust development.
+### About me
 
-✨ I've contributed to many open-source projects and packages, including [Alpine.js](https://github.com/alpinejs/alpine) and [Laravel](https://github.com/laravel/framework), as well as released some of my own, most notably [Spruce](https://github.com/ryangjchandler/spruce) and [Alpine Clipboard](https://github.com/ryangjchandler/alpine-clipboard). These packages have had millions of hits in just the last couple of years. 
+My name is Ryan. I'm a Laravel and JavaScript developer from United Kingdom. I spend most of my time these days working with [Livewire](https://laravel-livewire.com/) and [Alpine.js](https://alpinejs.dev), as well as [Tailwind](https://tailwindcss.com/). This is commonly referred to as the "TALL stack".
 
-📦 I also develop and maintain one of the more popular front-end presets for Laravel, the [TALL stack preset](https://github.com/laravel-frontend-presets/tall), alongside [Dan Harrin](https://github.com/sponsors/danharrin) and [Liam Hammett](https://github.com/sponsors/imliam). This package has been downloaded and used more than 50,000 times by developers in the Laravel community.
+### Projects
 
-📰 I also write blog posts over on my [personal site](https://ryangjchandler.co.uk). I cover topics and concepts in the Laravel framework, as well as more generalised JavaScript and Alpine.js tips and tricks. I'm best known for my series of posts on [unconventional things you can do with Laravel](https://ryangjchandler.co.uk/articles/unconventional-laravel-auto-validating-models). On average, my blog receives more than 10,000 views per month.
+I spend a good amount of time each day working on open-source projects for a variety of different languages and frameworks. Below is a list of my favourite projects:
+
+* [Filament](https://filamentphp.com/)
+* [Orbit](https://github.com/ryangjchandler/orbit)
+* [TALL Preset](https://github.com/laravel-frontend-presets/tall)
+* [Alpine.js Clipboard](https://github.com/ryangjchandler/alpine-clipboard)
+* [Alpine.js Tooltip](https://github.com/ryangjchandler/alpine-tooltip)
+
+### Writing
+
+If I feel like something could be of use to other people, or perhaps my future self, I tend to write a [blog post about it on my blog](https://ryangjchandler.co.uk/).
+
+### Socials
+
+You can find me on [Twitter](https://twitter.com/ryangjchandler). I don't use any other socials.
