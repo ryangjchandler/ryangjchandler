@@ -1,4 +1,4 @@
-### About me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=0093F7&background=18FF0000&lines=%40ryangjchandler)](https://git.io/typing-svg)
 
 My name is Ryan. I'm a Laravel and JavaScript developer from United Kingdom. I spend most of my time these days working with [Livewire](https://laravel-livewire.com/) and [Alpine.js](https://alpinejs.dev), as well as [Tailwind](https://tailwindcss.com/). This is commonly referred to as the "TALL stack".
 
