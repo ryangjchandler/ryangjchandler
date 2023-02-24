@@ -1,22 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=2000&color=0093F7&background=18FF0000&lines=%40ryangjchandler)](https://git.io/typing-svg)
+My name is Ryan and I'm a software developer who primarily works with PHP and Laravel.
 
-My name is Ryan. I'm a Laravel and JavaScript developer from United Kingdom. I spend most of my time these days working with [Livewire](https://laravel-livewire.com/) and [Alpine.js](https://alpinejs.dev), as well as [Tailwind](https://tailwindcss.com/). This is commonly referred to as the "TALL stack".
+I have developed and published a variety of open source packages for the PHP, Laravel and Alpine.js ecosystems, including:
+* [Orbit](https://github.com/ryangjchandler/orbit) - a flat-file database driver for Eloquent.
+* [alpine-clipboard](https://github.com/ryangjchandler/alpine-clipboard) - a simple clipboard helper for Alpine.js
+* [filament-navigation](https://github.com/ryangjchandler/filament-navigation) - a Filament plugin to help build navigation menus with a clean UI.
 
-### Projects
+Alongside those packages, I'm also on a larger mission to take PHP's developer experience to the next level with a suite of tools including a superset named PXP and a brand-new static analyser implemented in Rust called Statan.
 
-I spend a good amount of time each day working on open-source projects for a variety of different languages and frameworks. Below is a list of my favourite projects:
+[PXP](https://github.com/pxp-lang/pxp) improves the PHP language by introducing new syntax features and extended runtime capabilities including type aliases, syntax for generics and more.
 
-* [Filament](https://filamentphp.com/)
-* [Orbit](https://github.com/ryangjchandler/orbit)
-* [TALL Preset](https://github.com/laravel-frontend-presets/tall)
-* [Alpine.js Clipboard](https://github.com/ryangjchandler/alpine-clipboard)
-* [Alpine.js Tooltip](https://github.com/ryangjchandler/alpine-tooltip)
-* [Prettier Plugin for Blade](https://github.com/ryangjchandler/prettier-plugin-blade)
+[Statan](https://github.com/pxp-lang/statan) is a project that aims to improve the speed and reliability of static analysis tools for PHP and PXP projects. The goal is to provide a level of analysis comparable to more popular tools such as PHPStan and Psalm, whilst still accurately analysing your code.
 
-### Writing
-
-If I feel like something could be of use to other people, or perhaps my future self, I tend to write a [blog post about it on my blog](https://ryangjchandler.co.uk/).
-
-### Socials
-
-You can find me on [Twitter](https://twitter.com/ryangjchandler). I don't use any other socials.
+These projects involve a huge time commitment to develop and as such, all sponsorships are highly appreciated.
