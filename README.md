@@ -9,6 +9,4 @@ Alongside those packages, I'm also on a larger mission to take PHP's developer e
 
 [PXP](https://github.com/pxp-lang/pxp) improves the PHP language by introducing new syntax features and extended runtime capabilities including type aliases, syntax for generics and more.
 
-[Statan](https://github.com/pxp-lang/statan) is a project that aims to improve the speed and reliability of static analysis tools for PHP and PXP projects. The goal is to provide a level of analysis comparable to more popular tools such as PHPStan and Psalm, whilst still accurately analysing your code.
-
 These projects involve a huge time commitment to develop and as such, all sponsorships are highly appreciated.
