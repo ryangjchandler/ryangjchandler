@@ -5,3 +5,4 @@
 **Currently working on:**
 * [Laravel Cloud](https://cloud.laravel.com)
 * [Phiki](https://github.com/phikiphp/phiki) – a syntax highlighter that uses TextMate grammars and VSCode themes, written in PHP.
+* [Privato](https://privato.pub) – securely distribute, license, and update your private PHP packages.
